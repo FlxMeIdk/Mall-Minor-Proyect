@@ -1,0 +1,26 @@
+.home__carousel{
+    width: 80%;
+    height: 300px;
+    padding: 30px;
+    position: relative;
+    left: 140px;
+    top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 17px -5px rgba(0, 0, 0, 0.849);
+}
+
+
+.slider{
+    position: relative;
+    left: 29%;
+    width: 550px;
+    -webkit-transform: skew(-20deg);
+    -moz-transform: skew(-20deg);
+    -ms-transform: skew(-20deg);
+    -o-transform: skew(-20deg);
+    transform: skew(-20deg);
+}
+
+.home__feed {
+    display: flex;
+}
